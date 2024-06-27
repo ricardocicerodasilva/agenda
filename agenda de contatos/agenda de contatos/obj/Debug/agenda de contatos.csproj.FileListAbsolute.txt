@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda de contatos.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda_de_contatos.FormConsulta.resources
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda_de_contatos.Form1.resources
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda_de_contatos.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda de contatos.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\agenda de contatos\agenda de contatos\obj\Debug\agenda de contatos.csproj.CoreCompileInputs.cache
